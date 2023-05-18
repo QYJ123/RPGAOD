@@ -122,15 +122,3 @@ This toolbox is modified from [MMdetection](https://github.com/open-mmlab/mmdete
   year={2019}
 }
 ```
-
-This is the official implement of [Oriented R-CNN](configs/obb/oriented_rcnn). if it is used in your research, please cite the following information.
-
-```
-@InProceedings{Xie_2021_ICCV,
-  author = {Xie, Xingxing and Cheng, Gong and Wang, Jiabao and Yao, Xiwen and Han, Junwei},
-  title = {Oriented R-CNN for Object Detection},
-  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-  month = {October},
-  year = {2021},
-  pages = {3520-3529} }
-```
