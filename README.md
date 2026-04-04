@@ -20,7 +20,7 @@ We develop [BboxToolkit](https://github.com/jbwang1997/BboxToolkit) to support o
 
 ## License
 
-This project is released under the [Apache 2.0 license](LICENSE).
+This project is released under the [Apache 2.0 license](LICENSE). we have provided the checkpoint files in the following link, password: 9896
 
 ## Update
 
@@ -30,7 +30,7 @@ This project is released under the [Apache 2.0 license](LICENSE).
 
 ## Benchmark and model zoo
 
-Results and models are available in the [model zoo](docs/model_zoo.md).
+Results and models are available in the [model zoo](docs/model_zoo.md). We have provided the checkpoint files in the following [link](https://pan.baidu.com/s/168Pa652yV6WE39RzF4tp2A), password: 9896
 
 Supported backbones:
 - [x] ResNet
